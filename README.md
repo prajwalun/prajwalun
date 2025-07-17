@@ -29,15 +29,15 @@
 <div align="left">
   
 **Graduate Student** pursuing MS in Computer Science at California State University, Dominguez Hills  
-**GPA:** 3.72/4.0 | **Graduation:** December 2025
+**GPA:** 3.8/4.0 | **Graduation:** December 2025
 
 **Looking For:**
 - New Grad Software Engineering positions
 - Fall 2025 Internship opportunities  
 - Full-Stack Developer roles
-- AI Developer positions
+- AI Developer positions (Application Development)
 
-**Contact:** prajwal.un16@gmail.com 
+**Contact:** prajwal.un16@gmail.com | 562-208-1365
 
 </div>
 
@@ -143,7 +143,7 @@
     <td width="50%">
       <h3 align="center">Voice Productivity Assistant</h3>
       <div align="center">
-        <a href="https://github.com/prajwalun/voice-productivity-assistant-backend" target="_blank">
+        <a href="https://github.com/prajwalun/voice-assistant" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-5B67D8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
@@ -157,7 +157,7 @@
     <td width="50%">
       <h3 align="center">Multi-Agent MVP</h3>
       <div align="center">
-        <a href="https://github.com/prajwalun/agentbay" target="_blank">
+        <a href="https://github.com/prajwalun" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-5B67D8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
@@ -207,7 +207,7 @@
 </h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=prajwalun&show_icons=true&count_private=true&hide_border=true&title_color=5B67D8&icon_color=5B67D8&text_color=c9d1d9&bg_color=0d1117" alt="Prajwal's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=prajwalun&show_icons=true&count_private=true&hide_border=true&title_color=5B67D8&icon_color=5B67D8&text_color=c9d1d9&bg_color=0d1117&hide_rank=true" alt="Prajwal's github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalun&layout=compact&hide_border=true&title_color=5B67D8&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
@@ -233,7 +233,7 @@
 
 <br><br>
 
-Looking for opportunities to contribute to innovative software projects and grow as a developer. Particularly interested in full-stack development and AI developer roles.
+Looking for opportunities to contribute to innovative software projects and grow as a developer. Particularly interested in full-stack development and AI application development.
 
 <br>
 
