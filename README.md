@@ -35,7 +35,7 @@
 - New Grad Software Engineering positions
 - Fall 2025 Internship opportunities  
 - Full-Stack Developer roles
-- AI Developer positions 
+- AI Developer roles
 
 **Contact:** prajwal.un16@gmail.com 
 
