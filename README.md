@@ -37,7 +37,7 @@
 - Full-Stack Developer roles
 - AI Developer positions
 
-**Contact:** prajwal.un16@gmail.com | 562-208-1365
+**Contact:** prajwal.un16@gmail.com 
 
 </div>
 
