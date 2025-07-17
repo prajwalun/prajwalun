@@ -29,13 +29,13 @@
 <div align="left">
   
 **Graduate Student** pursuing MS in Computer Science at California State University, Dominguez Hills  
-**GPA:** 3.8/4.0 | **Graduation:** December 2025
+**GPA:** 3.72/4.0 | **Graduation:** December 2025
 
 **Looking For:**
 - New Grad Software Engineering positions
 - Fall 2025 Internship opportunities  
 - Full-Stack Developer roles
-- AI Developer positions (Application Development)
+- AI Developer positions
 
 **Contact:** prajwal.un16@gmail.com | 562-208-1365
 
@@ -143,7 +143,7 @@
     <td width="50%">
       <h3 align="center">Voice Productivity Assistant</h3>
       <div align="center">
-        <a href="https://github.com/prajwalun/voice-assistant" target="_blank">
+        <a href="https://github.com/prajwalun/voice-productivity-assistant-backend" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-5B67D8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
@@ -157,7 +157,7 @@
     <td width="50%">
       <h3 align="center">Multi-Agent MVP</h3>
       <div align="center">
-        <a href="https://github.com/prajwalun" target="_blank">
+        <a href="https://github.com/prajwalun/agentbay" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-5B67D8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
