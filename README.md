@@ -1,144 +1,175 @@
 # Prajwal Umesh Nagalakshmi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;MS+Computer+Science+%40+CSU+Dominguez+Hills;Open+to+New+Grad+%2B+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;MS+Computer+Science+Graduate;Seeking+Fall+2025+Opportunities;Full-Stack+Developer;AI%2FML+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/prajwalun)
-  [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:prajwal.un16@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/prajwalun)
-  
+  <a href="mailto:prajwal.un16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/prajwal-umesh-nagalakshmi-77784a190/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/prajwalun">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
+
+---
+
+## Professional Summary
+
+**MS Computer Science Graduate** from California State University Dominguez Hills with a **3.8 GPA**, graduating December 2025. Experienced software engineer with proven track record in full-stack development, AI/ML integration, and rapid MVP development. Seeking **Fall 2025 internships** and **new graduate positions** in software engineering.
+
+**Key Achievements:**
+- 3rd Place Winner - AI Agents + MCP Hackathon (6-hour MVP development)
+- 40% improvement in user engagement and 25% reduction in API loading times
+- Multiple hackathon victories with complete product deliveries
+
+---
+
+## Technical Expertise
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=1&width=100%" />
-</div>
 
-## About Me
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Graduate student pursuing **MS in Computer Science** at California State University, Dominguez Hills (GPA: 3.8), graduating December 2025. Experienced in building scalable full-stack applications with a focus on AI-powered solutions. **Actively seeking Fall 2025 internships and new grad software engineering positions.**
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Key Highlights
-- **3rd Place Winner** - AI Agents + MCP Hackathon
-- Built production-ready applications using React Native, Node.js, and OpenAI APIs
-- Published multiple open-source projects focusing on developer productivity and AI integration
-- Former Software Engineer Intern at Appleute with demonstrated impact on user engagement
+### Backend Technologies
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-## Technical Skills
+### AI/ML & APIs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-<table>
-<tr>
-<td width="50%">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00FF00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=00FF00)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=00FF00)
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=00FF00)
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=00FF00)
-
-### Frameworks & Libraries
-![React Native](https://img.shields.io/badge/React_Native-0A0A0A?style=flat-square&logo=react&logoColor=00FF00)
-![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=00FF00)
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=00FF00)
-![NestJS](https://img.shields.io/badge/NestJS-0A0A0A?style=flat-square&logo=nestjs&logoColor=00FF00)
-![Django](https://img.shields.io/badge/Django-0A0A0A?style=flat-square&logo=django&logoColor=00FF00)
-![Express.js](https://img.shields.io/badge/Express.js-0A0A0A?style=flat-square&logo=express&logoColor=00FF00)
-
-</td>
-<td width="50%">
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazon-aws&logoColor=00FF00)
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=00FF00)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=flat-square&logo=github-actions&logoColor=00FF00)
-![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?style=flat-square&logo=firebase&logoColor=00FF00)
-![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=flat-square&logo=vercel&logoColor=00FF00)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### AI/ML & Databases
-![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=flat-square&logo=openai&logoColor=00FF00)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=00FF00)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=00FF00)
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=00FF00)
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-</td>
-</tr>
-</table>
+</div>
 
-## Featured Projects
-
-### [Diff Digest](https://github.com/prajwalun/diff-digest)
-**AI-Powered Release Notes Generator** | `React` `TypeScript` `Express` `OpenAI API` `GitHub API`
-- Generates developer and marketing release notes from GitHub pull requests using GPT-4o streaming API
-- Built robust streaming renderer with multi-layer caching to handle fragmented AI-generated HTML
-- Implemented clean architecture with strong TypeScript typing and extensible caching system
-
-### [ReKindle](https://github.com/prajwalun/rekindle)
-**Automated Networking Follow-up Application** | `React Native` `Expo` `GPT-4o` `Whisper API`
-- Cross-platform mobile app for personalized networking follow-ups via business card scanning
-- Integrated GPT-4o for message generation and Whisper API for voice note transcription
-- Shipped complete MVP in under 24 hours during GMI Cloud hackathon
-
-### [Voice-Driven Productivity Assistant](https://github.com/prajwalun/voice-assistant)
-**Task Management with Voice Input** | `React Native` `NestJS` `Firebase` `Whisper API`
-- Cross-platform application enabling voice-driven task capture and management
-- Secure backend with NestJS, PostgreSQL, and Firebase Authentication
-- Real-time data sync with offline-friendly architecture
-
-### Multi-Agent MVP System
-**3rd Place - AI Agents + MCP Hackathon** | `FastAPI` `Langchain` `OpenAI GPT-4o`
-- Built modular multi-agent system in 6 hours for YouTube, finance, and travel queries
-- Implemented context-aware agent coordination using Model Context Protocol (MCP)
-- Developed with Cursor and designed frontend using Vercel v0
-
-## Professional Experience
-
-### Software Engineer Intern | Appleute
-**October 2021 - March 2022** | Bangalore, India
-
-- Developed core features for **Betra**, an MVP enabling cashierless, AI-powered shopping in retail stores
-- Built React Native application supporting QR-based store entry/exit and automatic credit card payments
-- Optimized performance using memoization and caching, improving user engagement by **40%** during pilot testing
-- Streamlined backend APIs with NestJS decorators, reducing loading times by **25%** in internal benchmarks
-- Integrated i18n and local storage to enable multi-language and offline support
+---
 
 ## GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwalun&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalun&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=00FF00&text_color=FFFFFF" />
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwalun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalun&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalun&theme=dark&hide_border=true&background=0A0A0A&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=FFFFFF&dates=FFFFFF&stroke=00FF00" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalun&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## Currently Seeking
+---
 
-**Available: December 2025**
+## Featured Projects
 
-Actively pursuing opportunities in:
-- Full-Stack Software Engineering
-- AI/ML Engineering
-- Mobile Application Development
-- Cloud Architecture & DevOps
+### Diff Digest - AI-Powered Release Notes Generator
+**Tech Stack:** React, TypeScript, GitHub API, OpenAI GPT-4o, Streaming APIs
+- Automated release notes generation from GitHub pull requests
+- Implemented real-time streaming API for enhanced user experience
+- Built with modern React patterns and TypeScript for type safety
 
-Particularly interested in roles that involve building scalable systems, working with cutting-edge AI technologies, and creating impactful user experiences.
+### ReKindle - Networking Follow-Up Platform
+**Tech Stack:** React Native, Business Card Scanning API, Firebase
+- **Built in 24 hours** during GMI Cloud hackathon
+- Business card scanning with automated contact organization
+- Cross-platform mobile application with intuitive UX
 
-## Connect
+### Voice Productivity Assistant
+**Tech Stack:** React Native, OpenAI Whisper API, Cross-platform Architecture
+- Voice-driven task management system
+- Integrated speech-to-text with advanced AI processing
+- Seamless cross-platform functionality
+
+### Multi-Agent MVP - 3rd Place Hackathon Winner
+**Tech Stack:** FastAPI, LangChain, OpenAI, MCP
+- **Developed complete MVP in 6 hours**
+- AI system handling YouTube, finance, and travel queries
+- Advanced multi-agent architecture with LangChain integration
+
+---
+
+## Professional Experience
+
+### Software Engineer Intern | Appleute
+**October 2021 - March 2022**
+
+**Project: Betra - Cashierless AI Shopping MVP**
+- Developed core features for AI-powered shopping experience
+- **Improved user engagement by 40%** through optimized user interface
+- **Reduced API loading times by 25%** via efficient backend optimization
+- Collaborated with cross-functional teams to deliver production-ready features
+
+---
+
+## Education & Achievements
+
+### Master of Science in Computer Science
+**California State University Dominguez Hills** | **GPA: 3.8** | **December 2025**
+
+### Notable Achievements
+- **3rd Place** - AI Agents + MCP Hackathon (6-hour development challenge)
+- **Hackathon Winner** - GMI Cloud (24-hour ReKindle development)
+- **Multiple MVP Deliveries** - Proven track record in rapid development cycles
+
+---
+
+## Current Status
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Seeking%20Fall%202025%20Opportunities-brightgreen?style=for-the-badge&logo=target&logoColor=white" alt="Current Status" />
+</div>
+
+**Actively seeking:**
+- Fall 2025 Software Engineering Internships
+- New Graduate Software Engineer Positions
+- Full-Stack Development Opportunities
+- AI/ML Engineering Roles
+
+---
+
+## Contact Information
 
 <div align="center">
   
-  **[LinkedIn](https://linkedin.com/in/prajwalun)** • **[Email](mailto:prajwal.un16@gmail.com)** • **[GitHub](https://github.com/prajwalun)**
-  
+**Ready to discuss opportunities and technical challenges**
+
+[![Email](https://img.shields.io/badge/Email-prajwal.un16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwal.un16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-umesh-nagalakshmi-77784a190/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Projects-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajwalun)
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with passion for clean code and innovative solutions</sub>
+  <img src="https://komarev.com/ghpvc/?username=prajwalun&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
