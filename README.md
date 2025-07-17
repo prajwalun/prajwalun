@@ -12,6 +12,9 @@
   <a href="https://github.com/prajwalun">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
+  <a href="https://drive.google.com/file/d/1ZamMLE5HnTjvF2Bbmdqu8PynQYKUief5/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=1A73E8" />
+  </a>
 </div>
 
 <br>
@@ -35,9 +38,9 @@
 - New Grad Software Engineering positions
 - Fall 2025 Internship opportunities  
 - Full-Stack Developer roles
-- AI Developer roles
+- AI Developer positions (Application Development)
 
-**Contact:** prajwal.un16@gmail.com 
+**Contact:** prajwal.un16@gmail.com | 562-208-1365
 
 </div>
 
@@ -166,7 +169,7 @@
         <img src="https://img.shields.io/badge/Langchain-1C1C1C?style=flat-square&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
-      <p>3rd place hackathon winner - AI agents platform with agents for YouTube, finance, and travel queries using Model Context Protocol</p>
+      <p>3rd place hackathon winner - Modular AI system for YouTube, finance, and travel queries using Model Context Protocol</p>
     </td>
   </tr>
 </table>
