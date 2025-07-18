@@ -32,7 +32,7 @@
 <div align="left">
   
 **Graduate Student** pursuing MS in Computer Science at California State University, Dominguez Hills  
-**GPA:** 3.8/4.0 | **Graduation:** December 2025
+**GPA:** 3.7/4.0 | **Graduation:** December 2025
 
 **Looking For:**
 - New Grad Software Engineering positions
@@ -146,7 +146,7 @@
     <td width="50%">
       <h3 align="center">Voice Productivity Assistant</h3>
       <div align="center">
-        <a href="https://github.com/prajwalun/voice-assistant" target="_blank">
+        <a href="https://github.com/prajwalun/voice-productivity-assistant-backend" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-5B67D8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
@@ -158,9 +158,9 @@
       <p>Voice-driven task management app with real-time transcription and smart suggestions using OpenAI Whisper and GPT-3.5</p>
     </td>
     <td width="50%">
-      <h3 align="center">Multi-Agent MVP</h3>
+      <h3 align="center">AgentBay</h3>
       <div align="center">
-        <a href="https://github.com/prajwalun" target="_blank">
+        <a href="https://github.com/prajwalun/agentbay" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-5B67D8?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
