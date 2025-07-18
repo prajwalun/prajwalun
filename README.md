@@ -169,7 +169,7 @@
         <img src="https://img.shields.io/badge/Langchain-1C1C1C?style=flat-square&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
-      <p>3rd place hackathon winner - Modular AI system for YouTube, finance, and travel queries using Model Context Protocol</p>
+      <p>3rd place hackathon winner - Modular AI agents platform with conversational interface to interact with YouTube, finance, and travel query agents using Model Context Protocol</p>
     </td>
   </tr>
 </table>
