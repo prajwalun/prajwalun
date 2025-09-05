@@ -15,7 +15,7 @@
   <a href="https://www.prajwal-umeshnagalakshmi.info/">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=E74C3C" />
   </a>
-  <a href="https://drive.google.com/file/d/1ZamMLE5HnTjvF2Bbmdqu8PynQYKUief5/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1p8Jtxw99mJDhqxiTWWNd5GtUubldw4or/view">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=1A73E8" />
   </a>
 </div>
@@ -117,6 +117,20 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Agent Sentinel</h3>
+      <div align="center">
+        <a href="https://github.com/prajwalun/agent-sentinel" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-5B67D8?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      </p>
+      <p>Security monitoring SDK for AI agents with real-time threat detection, multi-agent intelligence engine, and comprehensive dashboard for production-ready agent security</p>
+    </td>
+    <td width="50%">
       <h3 align="center">Diff Digest</h3>
       <div align="center">
         <a href="https://github.com/prajwalun/diff-digest" target="_blank">
@@ -130,6 +144,8 @@
       </p>
       <p>AI-powered release notes generator that transforms GitHub PRs into developer and marketing notes using GPT-4o streaming API</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">ReKindle</h3>
       <div align="center">
@@ -144,8 +160,6 @@
       </p>
       <p>Cross-platform networking app with business card scanning and AI-powered follow-ups. Built in 24 hours at GMI Cloud hackathon</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">Voice Productivity Assistant</h3>
       <div align="center">
@@ -160,6 +174,8 @@
       </p>
       <p>Voice-driven task management app with real-time transcription and smart suggestions using OpenAI Whisper and GPT-3.5</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">AgentBay</h3>
       <div align="center">
@@ -173,6 +189,9 @@
         <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <p>3rd place hackathon winner - Modular AI agents platform with conversational interface to interact with YouTube, finance, and travel query agents using Model Context Protocol</p>
+    </td>
+    <td width="50%">
+      <!-- Empty cell for layout balance -->
     </td>
   </tr>
 </table>
