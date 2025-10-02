@@ -38,8 +38,7 @@
 **GPA:** 3.7/4.0 | **Graduation:** December 2025
 
 **Looking For:**
-- New Grad Software Engineering positions
-- Fall 2025 Internship opportunities  
+- New Grad Software Engineering positions 
 - Full-Stack Developer roles
 - AI Developer positions
 
@@ -117,6 +116,21 @@
 <table>
   <tr>
     <td width="33%">
+      <h3 align="center">DealCart+</h3>
+      <div align="center">
+        <a href="https://github.com/prajwalun/dealcart" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-5B67D8?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p>Production-ready e-commerce platform with auto-scaling microservices, gRPC communication, SAGA transactions, and comprehensive load testing (200K+ requests, P95 ~250ms)</p>
+    </td>
+    <td width="33%">
       <h3 align="center">Agent Sentinel</h3>
       <div align="center">
         <a href="https://github.com/prajwalun/agent-sentinel" target="_blank">
@@ -144,6 +158,8 @@
       </p>
       <p>AI-powered release notes generator that transforms GitHub PRs into developer and marketing notes using GPT-4o streaming API</p>
     </td>
+  </tr>
+  <tr>
     <td width="33%">
       <h3 align="center">AgentBay</h3>
       <div align="center">
@@ -158,8 +174,6 @@
       </p>
       <p>3rd place hackathon winner - Modular AI agents platform with conversational interface for YouTube, finance, and travel queries</p>
     </td>
-  </tr>
-  <tr>
     <td width="33%">
       <h3 align="center">ReKindle</h3>
       <div align="center">
@@ -187,9 +201,6 @@
         <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <p>Voice-driven task management app with real-time transcription and smart suggestions using OpenAI Whisper and GPT-3.5</p>
-    </td>
-    <td width="33%">
-      <!-- Empty cell for layout balance -->
     </td>
   </tr>
 </table>
