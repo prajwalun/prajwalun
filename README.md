@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/prajwal-umesh-nagalakshmi-77784a190/">
+  <a href="https://www.linkedin.com/in/prajwal-umeshnagalakshmi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   <a href="mailto:prajwal.un16@gmail.com">
@@ -15,7 +15,7 @@
   <a href="https://www.prajwal-umeshnagalakshmi.info/">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=E74C3C" />
   </a>
-  <a href="https://drive.google.com/file/d/1XUS2bGsRf11rvzpoEHMVqZjwjl_13m9v/view">
+  <a href="https://drive.google.com/file/d/1Zi9fy_9ioD0iSBepbbHbePkZCvL7tIoc/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=1A73E8" />
   </a>
 </div>
