@@ -15,7 +15,7 @@
   <a href="https://www.prajwal-umeshnagalakshmi.info/">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=E74C3C" />
   </a>
-  <a href="https://drive.google.com/file/d/1kXNbvf1FWf1v4UkAX14KO8knI1A3axkS/view">
+  <a href="https://drive.google.com/file/d/1APpCkcvF_Atq-8Y-8rauNiPWXv5qohqI/view">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=1A73E8" />
   </a>
 </div>
