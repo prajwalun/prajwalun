@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <strong>Open to New Grad SWE Positions</strong> · Backend | Full Stack | AI · Distributed Systems & AI Agents · MSCS Grad @ CSU Dominguez Hills
+  <strong>Open to New Grad SWE Positions</strong> · Backend | Full Stack · Distributed Systems and AI Agents · MSCS Grad @ CSU Dominguez Hills
 </p>
 
 ---
