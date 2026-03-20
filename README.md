@@ -22,9 +22,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5B67D8&center=true&vCenter=true&random=false&width=800&lines=Open+to+New+Grad+SWE+Positions;Backend+%7C+Full+Stack+%7C+AI;Distributed+Systems+%26+AI+Agents;MSCS+Grad+%40+CSU+Dominguez+Hills" alt="Typing SVG" />
-</div>
+<p align="center">
+  <strong>Open to New Grad SWE Positions</strong> · Backend | Full Stack | AI · Distributed Systems & AI Agents · MSCS Grad @ CSU Dominguez Hills
+</p>
 
 ---
 
