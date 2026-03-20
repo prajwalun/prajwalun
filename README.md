@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6094ea,5a67d8,4c51bf&height=200&section=header&text=Prajwal%20Umesh%20Nagalakshmi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%26%20AI%20Agents%20%7C%20MSCS%20Grad%20(Dec%202025)&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6094ea,5a67d8,4c51bf&height=200&section=header&text=Prajwal%20Umesh%20Nagalakshmi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20and%20AI%20Agents%20%7C%20MSCS%20Grad%20(Dec%202025)&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
@@ -36,11 +36,11 @@
 
 I build scalable systems and AI agents. **MSCS** from California State University, Dominguez Hills (**GPA 3.7**) | **Graduation:** December 2025
 
-**Current:** Volunteer Full Stack Developer at Saayam For All, contributing to GenAI—migrating legacy LLM code to LangChain and refactoring Lambdas into modular API layers.
+**Current:** Volunteer Full Stack Developer at Saayam For All, contributing to GenAI, migrating legacy LLM code to LangChain and refactoring Lambdas into modular API layers.
 
 **Key Projects:** DealCart+ (microservices, load-tested to 200K+ requests) · Agent Sentinel (AI security SDK) · NanoKV (C++ KV store, 104K+ QPS) · LegacyLens (AI code scanner)
 
-**Previously:** Appleute — reduced checkout times by 60%, boosted engagement by 40% | Stanford Code In Place Section Leader | CSUDH STEM Instructor
+**Previously:** Appleute, reduced checkout times by 60%, boosted engagement by 40% | Stanford Code In Place Section Leader | CSUDH STEM Instructor
 
 **Looking For:** New Grad Software Engineering (Backend / Full Stack / AI)
 
@@ -291,7 +291,7 @@ I build scalable systems and AI agents. **MSCS** from California State Universit
         <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=flat-square&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/MCP-1C1C1C?style=flat-square" />
       </p>
-      <p>3rd place hackathon — Multi-agent orchestration (Finance, Travel, Media) with MCP. Built in 6 hours</p>
+      <p>3rd place hackathon, Multi-agent orchestration (Finance, Travel, Media) with MCP. Built in 6 hours</p>
     </td>
   </tr>
 </table>
@@ -331,7 +331,7 @@ I build scalable systems and AI agents. **MSCS** from California State Universit
 </p>
 
 **Key Achievements:**
-- Engineered **Betra**, an AI-powered cashierless shopping app—reduced checkout times by **60%**
+- Engineered **Betra**, an AI-powered cashierless shopping app, reduced checkout times by **60%**
 - Boosted user engagement by **40%** via React Native performance optimization (lazy loading, memoization)
 - Slashed API latency by **25%** with NestJS caching and query optimization
 - Integrated i18n and secure authentication for multi-language and offline support
